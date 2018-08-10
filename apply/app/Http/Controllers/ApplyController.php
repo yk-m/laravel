@@ -6,7 +6,8 @@ use Illuminate\Http\Request;
 
 class ApplyController extends Controller
 {
-  public function exec(Request $request) {
-    return response()->json($request->aids, 200);
-  }
+    public function exec(Request $request)
+    {
+        return response()->json($request->aids, 200);
+    }
 }

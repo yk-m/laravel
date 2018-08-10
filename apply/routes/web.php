@@ -1,7 +1,5 @@
 <?php
 
-use App\Http\Controllers\AvailabilityController;
-use App\Http\Controllers\ApplyController;
 
 /*
 |--------------------------------------------------------------------------
